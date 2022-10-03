@@ -1,6 +1,6 @@
 # Start programação
 
-[Clique aqui para acessar projeto](https://gabriel-gomes-amorim.github.io/Calculadora-de-Gorjetas/)
+[Clique aqui para acessar projeto](https://gabriel-gomes-amorim.github.io/start-programa/)
 
 ## Tecnologias
 
